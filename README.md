@@ -1,6 +1,2 @@
-![Screenshot 2024-09-18 154009](https://github.com/user-attachments/assets/029d6717-0171-479b-9c04-6a07bed3f4e7)
-![Screenshot (236)](https://github.com/VidyaBarla/Ecosprint-Website/assets/105243398/d5f25930-0993-4a57-99c8-8f2def5d7368)
-![Screenshot (237)](https://github.com/VidyaBarla/Ecosprint-Website/assets/105243398/72686e48-3d9f-4da5-a611-fd15e8ecc88c)
-![Screenshot (238)](https://github.com/VidyaBarla/Ecosprint-Website/assets/105243398/7bd1f6e0-b046-4733-a4a2-b43e592b58d6)
-![Screenshot (239)](https://github.com/VidyaBarla/Ecosprint-Website/assets/105243398/5029ec81-b20e-4117-922d-cc1f1709eccb)
-![Screenshot (240)](https://github.com/VidyaBarla/Ecosprint-Website/assets/105243398/21feb805-eb48-470f-86d8-766272253380)
+![Screenshot 2024-09-18 154922](https://github.com/user-attachments/assets/5e9202ac-6e69-4081-bdf3-de8e66a047d7)
+![Screenshot 2024-09-18 155034](https://github.com/user-attachments/assets/6bcd5de6-2f4f-45d0-a5c4-c8a576498f74)
